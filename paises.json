@@ -1,0 +1,1267 @@
+[
+	{
+		"pais_en" : "Brazil",
+		"pais" : "Brasil",
+		"sigla" : "BR"
+	},
+	{
+		"pais_en" : "Afghanistan",
+		"pais" : "Afeganistão",
+		"sigla" : "AF"
+	},
+	{
+		"pais_en" : "Albania",
+		"pais" : "Albânia, Republica da",
+		"sigla" : "AL"
+	},
+	{
+		"pais_en" : "Algeria",
+		"pais" : "Argélia",
+		"sigla" : "DZ"
+	},
+	{
+		"pais_en" : "American Samoa",
+		"pais" : "Samoa Americana",
+		"sigla" : "AS"
+	},
+	{
+		"pais_en" : "Andorra",
+		"pais" : "Andorra",
+		"sigla" : "AD"
+	},
+	{
+		"pais_en" : "Angola",
+		"pais" : "Angola",
+		"sigla" : "AO"
+	},
+	{
+		"pais_en" : "Anguilla",
+		"pais" : "Anguilla",
+		"sigla" : "AI"
+	},
+	{
+		"pais_en" : "Antarctica",
+		"pais" : "Antártida",
+		"sigla" : "AQ"
+	},
+	{
+		"pais_en" : "Antigua and Barbuda",
+		"pais" : "Antigua e Barbuda",
+		"sigla" : "AG"
+	},
+	{
+		"pais_en" : "Argentina",
+		"pais" : "Argentina",
+		"sigla" : "AR"
+	},
+	{
+		"pais_en" : "Armenia",
+		"pais" : "Armênia, Republica da",
+		"sigla" : "AM"
+	},
+	{
+		"pais_en" : "Aruba",
+		"pais" : "Aruba",
+		"sigla" : "AW"
+	},
+	{
+		"pais_en" : "Australia",
+		"pais" : "Austrália",
+		"sigla" : "AU"
+	},
+	{
+		"pais_en" : "Austria",
+		"pais" : "Áustria",
+		"sigla" : "AT"
+	},
+	{
+		"pais_en" : "Azerbaijan",
+		"pais" : "Azerbaijão, Republica do",
+		"sigla" : "AZ"
+	},
+	{
+		"pais_en" : "Bahamas",
+		"pais" : "Bahamas, Ilhas",
+		"sigla" : "BS"
+	},
+	{
+		"pais_en" : "Bahrain",
+		"pais" : "Bahrein, Ilhas",
+		"sigla" : "BH",
+	},
+	{
+		"pais_en" : "Bangladesh",
+		"pais" : "Bangladesh",
+		"sigla" : "BD"
+	},
+	{
+		"pais_en" : "Barbados",
+		"pais" : "Barbados",
+		"sigla" : "BB"
+	},
+	{
+		"pais_en" : "Belarus",
+		"pais" : "Belarus, Republica da",
+		"sigla" : "BY"
+	},
+	{
+		"pais_en" : "Belgium",
+		"pais" : "Bélgica",
+		"sigla" : "BE"
+	},
+	{
+		"pais_en" : "Belize",
+		"pais" : "Belize",
+		"sigla" : "BZ"
+	},
+	{
+		"pais_en" : "Benin",
+		"pais" : "Benin",
+		"sigla" : "BJ"
+	},
+	{
+		"pais_en" : "Bermuda",
+		"pais" : "Bermudas",
+		"sigla" : "BM"
+	},
+	{
+		"pais_en" : "Bhutan",
+		"pais" : "Butão",
+		"sigla" : "BT"
+	},
+	{
+		"pais_en" : "Bolivia",
+		"pais" : "Bolívia",
+		"sigla" : "BO"
+	},
+	{
+		"pais_en" : "Bosnia and Herzegowina",
+		"pais" : "Bósnia-herzegovina (Republica da)",
+		"sigla" : "BA"
+	},
+	{
+		"pais_en" : "Botswana",
+		"pais" : "Botsuana",
+		"sigla" : "BW"
+	},
+	{
+		"pais_en" : "Bouvet Island",
+		"pais" : "Bouvet, Ilha",
+		"sigla" : "BV"
+	},
+	{
+		"pais_en" : "British Indian Ocean Territory",
+		"pais" : "Território Britânico do Oceano Indico",
+		"sigla" : "IO"
+	},
+	{
+		"pais_en" : "Brunei Darussalam",
+		"pais" : "Brunei",
+		"sigla" : "BN"
+	},
+	{
+		"pais_en" : "Bulgaria",
+		"pais" : "Bulgária, Republica da",
+		"sigla" : "BG"
+	},
+	{
+		"pais_en" : "Burkina Faso",
+		"pais" : "Burkina Faso",
+		"sigla" : "BF"
+	},
+	{
+		"pais_en" : "Burundi",
+		"pais" : "Burundi",
+		"sigla" : "BI"
+	},
+	{
+		"pais_en" : "Cambodia",
+		"pais" : "Camboja",
+		"sigla" : "KH"
+	},
+	{
+		"pais_en" : "Cameroon",
+		"pais" : "Camarões",
+		"sigla" : "CM"
+	},
+	{
+		"pais_en" : "Canada",
+		"pais" : "Canada",
+		"sigla" : "CA"
+	},
+	{
+		"pais_en" : "Cape Verde",
+		"pais" : "Cabo Verde, Republica de",
+		"sigla" : "CV"
+	},
+	{
+		"pais_en" : "Cayman Islands",
+		"pais" : "Cayman, Ilhas",
+		"sigla" : "KY"
+	},
+	{
+		"pais_en" : "Central African Republic",
+		"pais" : "Republica Centro-Africana",
+		"sigla" : "CF"
+	},
+	{
+		"pais_en" : "Chad",
+		"pais" : "Chade",
+		"sigla" : "TD"
+	},
+	{
+		"pais_en" : "Chile",
+		"pais" : "Chile",
+		"sigla" : "CL"
+	},
+	{
+		"pais_en" : "China",
+		"pais" : "China, Republica Popular",
+		"sigla" : "CN"
+	},
+	{
+		"pais_en" : "Christmas Island",
+		"pais" : "Christmas, Ilha (Navidad)",
+		"sigla" : "CX"
+	},
+	{
+		"pais_en" : "Cocos (Keeling) Islands",
+		"pais" : "Cocos (Keeling), Ilhas",
+		"sigla" : "CC"
+	},
+	{
+		"pais_en" : "Colombia",
+		"pais" : "Colômbia",
+		"sigla" : "CO"
+	},
+	{
+		"pais_en" : "Comoros",
+		"pais" : "Comores, Ilhas",
+		"sigla" : "KM"
+	},
+	{
+		"pais_en" : "Congo",
+		"pais" : "Congo",
+		"sigla" : "CG"
+	},
+	{
+		"pais_en" : "Congo, the Democratic Republic of the",
+		"pais" : "Congo, Republica Democrática do",
+		"sigla" : "CD"
+	},
+	{
+		"pais_en" : "Cook Islands",
+		"pais" : "Cook, Ilhas",
+		"sigla" : "CK"
+	},
+	{
+		"pais_en" : "Costa Rica",
+		"pais" : "Costa Rica",
+		"sigla" : "CR"
+	},
+	{
+		"pais_en" : "Cote d`Ivoire",
+		"pais" : "Costa do Marfim",
+		"sigla" : "CI"
+	},
+	{
+		"pais_en" : "Croatia (Hrvatska)",
+		"pais" : "Croácia (Republica da)",
+		"sigla" : "HR"
+	},
+	{
+		"pais_en" : "Cuba",
+		"pais" : "Cuba",
+		"sigla" : "CU"
+	},
+	{
+		"pais_en" : "Cyprus",
+		"pais" : "Chipre",
+		"sigla" : "CY"
+	},
+	{
+		"pais_en" : "Czech Republic",
+		"pais" : "Tcheca, Republica",
+		"sigla" : "CZ"
+	},
+	{
+		"pais_en" : "Denmark",
+		"pais" : "Dinamarca",
+		"sigla" : "DK"
+	},
+	{
+		"pais_en" : "Djibouti",
+		"pais" : "Djibuti",
+		"sigla" : "DJ"
+	},
+	{
+		"pais_en" : "Dominica",
+		"pais" : "Dominica, Ilha",
+		"sigla" : "DM"
+	},
+	{
+		"pais_en" : "Dominican Republic",
+		"pais" : "Republica Dominicana",
+		"sigla" : "DO"
+	},
+	{
+		"pais_en" : "East Timor",
+		"pais" : "Timor Leste",
+		"sigla" : "TL"
+	},
+	{
+		"pais_en" : "Ecuador",
+		"pais" : "Equador",
+		"sigla" : "EC"
+	},
+	{
+		"pais_en" : "Egypt",
+		"pais" : "Egito",
+		"sigla" : "EG"
+	},
+	{
+		"pais_en" : "El Salvador",
+		"pais" : "El Salvador",
+		"sigla" : "SV"
+	},
+	{
+		"pais_en" : "Equatorial Guinea",
+		"pais" : "Guine-Equatorial",
+		"sigla" : "GQ"
+	},
+	{
+		"pais_en" : "Eritrea",
+		"pais" : "Eritreia",
+		"sigla" : "ER"
+	},
+	{
+		"pais_en" : "Estonia",
+		"pais" : "Estônia, Republica da",
+		"sigla" : "EE"
+	},
+	{
+		"pais_en" : "Ethiopia",
+		"pais" : "Etiópia",
+		"sigla" : "ET"
+	},
+	{
+		"pais_en" : "Falkland Islands (Malvinas)",
+		"pais" : "Falkland (Ilhas Malvinas)",
+		"sigla" : "FK"
+	},
+	{
+		"pais_en" : "Faroe Islands",
+		"pais" : "Feroe, Ilhas",
+		"sigla" : "FO"
+	},
+	{
+		"pais_en" : "Fiji",
+		"pais" : "Fiji",
+		"sigla" : "FJ"
+	},
+	{
+		"pais_en" : "Finland",
+		"pais" : "Finlândia",
+		"sigla" : "FI"
+	},
+	{
+		"pais_en" : "France",
+		"pais" : "Franca",
+		"sigla" : "FR"
+	},
+	{
+		"pais_en" : "French Guiana",
+		"pais" : "Guiana francesa",
+		"sigla" : "GF"
+	},
+	{
+		"pais_en" : "French Polynesia",
+		"pais" : "Polinésia Francesa",
+		"sigla" : "PF"
+	},
+	{
+		"pais_en" : "French Southern Territories",
+		"pais" : "Terras Austrais e Antárticas Francesas",
+		"sigla" : "TF"
+	},
+	{
+		"pais_en" : "Gabon",
+		"pais" : "Gabão",
+		"sigla" : "GA"
+	},
+	{
+		"pais_en" : "Gambia",
+		"pais" : "Gambia",
+		"sigla" : "GM"
+	},
+	{
+		"pais_en" : "Georgia",
+		"pais" : "Georgia, Republica da",
+		"sigla" : "GE"
+	},
+	{
+		"pais_en" : "Germany",
+		"pais" : "Alemanha",
+		"sigla" : "DE"
+	},
+	{
+		"pais_en" : "Ghana",
+		"pais" : "Gana",
+		"sigla" : "GH"
+	},
+	{
+		"pais_en" : "Gibraltar",
+		"pais" : "Gibraltar",
+		"sigla" : "GI"
+	},
+	{
+		"pais_en" : "Greece",
+		"pais" : "Grécia",
+		"sigla" : "GR"
+	},
+	{
+		"pais_en" : "Greenland",
+		"pais" : "Groenlândia",
+		"sigla" : "GL"
+	},
+	{
+		"pais_en" : "Grenada",
+		"pais" : "Granada",
+		"sigla" : "GD"
+	},
+	{
+		"pais_en" : "Guadeloupe",
+		"pais" : "Guadalupe",
+		"sigla" : "GP"
+	},
+	{
+		"pais_en" : "Guam",
+		"pais" : "Guam",
+		"sigla" : "GU"
+	},
+	{
+		"pais_en" : "Guatemala",
+		"pais" : "Guatemala",
+		"sigla" : "GT"
+	},
+	{
+		"pais_en" : "Guinea",
+		"pais" : "Guine",
+		"sigla" : "GN"
+	},
+	{
+		"pais_en" : "Guinea-Bissau",
+		"pais" : "Guine-Bissau",
+		"sigla" : "GW"
+	},
+	{
+		"pais_en" : "Guyana",
+		"pais" : "Guiana",
+		"sigla" : "GY"
+	},
+	{
+		"pais_en" : "Haiti",
+		"pais" : "Haiti",
+		"sigla" : "HT"
+	},
+	{
+		"pais_en" : "Heard and Mc Donald Islands",
+		"pais" : "Ilha Heard e Ilhas McDonald",
+		"sigla" : "HM"
+	},
+	{
+		"pais_en" : "Holy See (Vatican City State)",
+		"pais" : "Vaticano, Estado da Cidade do",
+		"sigla" : "VA"
+	},
+	{
+		"pais_en" : "Honduras",
+		"pais" : "Honduras",
+		"sigla" : "HN"
+	},
+	{
+		"pais_en" : "Hong Kong",
+		"pais" : "Hong Kong",
+		"sigla" : "HK"
+	},
+	{
+		"pais_en" : "Hungary",
+		"pais" : "Hungria, Republica da",
+		"sigla" : "HU"
+	},
+	{
+		"pais_en" : "Iceland",
+		"pais" : "Islândia",
+		"sigla" : "IS"
+	},
+	{
+		"pais_en" : "India",
+		"pais" : "Índia",
+		"sigla" : "IN"
+	},
+	{
+		"pais_en" : "Indonesia",
+		"pais" : "Indonésia",
+		"sigla" : "ID"
+	},
+	{
+		"pais_en" : "Iran (Islamic Republic of)",
+		"pais" : "Ira, Republica Islâmica do",
+		"sigla" : "IR"
+	},
+	{
+		"pais_en" : "Iraq",
+		"pais" : "Iraque",
+		"sigla" : "IQ"
+	},
+	{
+		"pais_en" : "Ireland",
+		"pais" : "Irlanda",
+		"sigla" : "IE"
+	},
+	{
+		"pais_en" : "Israel",
+		"pais" : "Israel",
+		"sigla" : "IL"
+	},
+	{
+		"pais_en" : "Italy",
+		"pais" : "Itália",
+		"sigla" : "IT"
+	},
+	{
+		"pais_en" : "Jamaica",
+		"pais" : "Jamaica",
+		"sigla" : "JM"
+	},
+	{
+		"pais_en" : "Japan",
+		"pais" : "Japão",
+		"sigla" : "JP"
+	},
+	{
+		"pais_en" : "Jordan",
+		"pais" : "Jordânia",
+		"sigla" : "JO"
+	},
+	{
+		"pais_en" : "Kazakhstan",
+		"pais" : "Cazaquistão, Republica do",
+		"sigla" : "KZ"
+	},
+	{
+		"pais_en" : "Kenya",
+		"pais" : "Quênia",
+		"sigla" : "KE"
+	},
+	{
+		"pais_en" : "Kiribati",
+		"pais" : "Kiribati",
+		"sigla" : "KI"
+	},
+	{
+		"pais_en" : "Korea, Democratic People`s Republic of",
+		"pais" : "Coreia, Republica Popular Democrática da",
+		"sigla" : "KP"
+	},
+	{
+		"pais_en" : "Korea, Republic of",
+		"pais" : "Coreia, Republica da",
+		"sigla" : "KR"
+	},
+	{
+		"pais_en" : "Kuwait",
+		"pais" : "Kuwait",
+		"sigla" : "KW"
+	},
+	{
+		"pais_en" : "Kyrgyzstan",
+		"pais" : "Quirguiz, Republica",
+		"sigla" : "KG"
+	},
+	{
+		"pais_en" : "Lao People`s Democratic Republic",
+		"pais" : "Laos, Republica Popular Democrática do",
+		"sigla" : "LA"
+	},
+	{
+		"pais_en" : "Latvia",
+		"pais" : "Letônia, Republica da",
+		"sigla" : "LV"
+	},
+	{
+		"pais_en" : "Lebanon",
+		"pais" : "Líbano",
+		"sigla" : "LB"
+	},
+	{
+		"pais_en" : "Lesotho",
+		"pais" : "Lesoto",
+		"sigla" : "LS"
+	},
+	{
+		"pais_en" : "Liberia",
+		"pais" : "Libéria",
+		"sigla" : "LR"
+	},
+	{
+		"pais_en" : "Libyan Arab Jamahiriya",
+		"pais" : "Líbia",
+		"sigla" : "LY"
+	},
+	{
+		"pais_en" : "Liechtenstein",
+		"pais" : "Liechtenstein",
+		"sigla" : "LI"
+	},
+	{
+		"pais_en" : "Lithuania",
+		"pais" : "Lituânia, Republica da",
+		"sigla" : "LT"
+	},
+	{
+		"pais_en" : "Luxembourg",
+		"pais" : "Luxemburgo",
+		"sigla" : "LU"
+	},
+	{
+		"pais_en" : "Macau",
+		"pais" : "Macau",
+		"sigla" : "MO"
+	},
+	{
+		"pais_en" : "North Macedonia",
+		"pais" : "Macedônia do Norte",
+		"sigla" : "MK"
+	},
+	{
+		"pais_en" : "Madagascar",
+		"pais" : "Madagascar",
+		"sigla" : "MG"
+	},
+	{
+		"pais_en" : "Malawi",
+		"pais" : "Malavi",
+		"sigla" : "MW"
+	},
+	{
+		"pais_en" : "Malaysia",
+		"pais" : "Malásia",
+		"sigla" : "MY"
+	},
+	{
+		"pais_en" : "Maldives",
+		"pais" : "Maldivas",
+		"sigla" : "MV"
+	},
+	{
+		"pais_en" : "Mali",
+		"pais" : "Mali",
+		"sigla" : "ML"
+	},
+	{
+		"pais_en" : "Malta",
+		"pais" : "Malta",
+		"sigla" : "MT"
+	},
+	{
+		"pais_en" : "Marshall Islands",
+		"pais" : "Marshall, Ilhas",
+		"sigla" : "MH"
+	},
+	{
+		"pais_en" : "Martinique",
+		"pais" : "Martinica",
+		"sigla" : "MQ"
+	},
+	{
+		"pais_en" : "Mauritania",
+		"pais" : "Mauritânia",
+		"sigla" : "MR"
+	},
+	{
+		"pais_en" : "Mauritius",
+		"pais" : "Mauricio",
+		"sigla" : "MU"
+	},
+	{
+		"pais_en" : "Mayotte",
+		"pais" : "Mayotte (Ilhas Francesas)",
+		"sigla" : "YT"
+	},
+	{
+		"pais_en" : "Mexico",
+		"pais" : "México",
+		"sigla" : "MX"
+	},
+	{
+		"pais_en" : "Micronesia, Federated States of",
+		"pais" : "Micronesia",
+		"sigla" : "FM"
+	},
+	{
+		"pais_en" : "Moldova, Republic of",
+		"pais" : "Moldávia, Republica da",
+		"sigla" : "MD"
+	},
+	{
+		"pais_en" : "Monaco",
+		"pais" : "Mônaco",
+		"sigla" : "MC"
+	},
+	{
+		"pais_en" : "Mongolia",
+		"pais" : "Mongólia",
+		"sigla" : "MN"
+	},
+	{
+		"pais_en" : "Montserrat",
+		"pais" : "Montserrat, Ilhas",
+		"sigla" : "MS"
+	},
+	{
+		"pais_en" : "Morocco",
+		"pais" : "Marrocos",
+		"sigla" : "MA"
+	},
+	{
+		"pais_en" : "Mozambique",
+		"pais" : "Moçambique",
+		"sigla" : "MZ"
+	},
+	{
+		"pais_en" : "Myanmar",
+		"pais" : "Mianmar (Birmânia)",
+		"sigla" : "MM"
+	},
+	{
+		"pais_en" : "Namibia",
+		"pais" : "Namíbia",
+		"sigla" : "NA"
+	},
+	{
+		"pais_en" : "Nauru",
+		"pais" : "Nauru",
+		"sigla" : "NR"
+	},
+	{
+		"pais_en" : "Nepal",
+		"pais" : "Nepal",
+		"sigla" : "NP"
+	},
+	{
+		"pais_en" : "Netherlands",
+		"pais" : "Países Baixos (Holanda)",
+		"sigla" : "NL"
+	},
+	{
+		"pais_en" : "New Caledonia",
+		"pais" : "Nova Caledonia",
+		"sigla" : "NC"
+	},
+	{
+		"pais_en" : "New Zealand",
+		"pais" : "Nova Zelândia",
+		"sigla" : "NZ"
+	},
+	{
+		"pais_en" : "Nicaragua",
+		"pais" : "Nicarágua",
+		"sigla" : "NI"
+	},
+	{
+		"pais_en" : "Niger",
+		"pais" : "Níger",
+		"sigla" : "NE"
+	},
+	{
+		"pais_en" : "Nigeria",
+		"pais" : "Nigéria",
+		"sigla" : "NG"
+	},
+	{
+		"pais_en" : "Niue",
+		"pais" : "Niue, Ilha",
+		"sigla" : "NU"
+	},
+	{
+		"pais_en" : "Norfolk Island",
+		"pais" : "Norfolk, Ilha",
+		"sigla" : "NF"
+	},
+	{
+		"pais_en" : "Northern Mariana Islands",
+		"pais" : "Marianas do Norte",
+		"sigla" : "MP"
+	},
+	{
+		"pais_en" : "Norway",
+		"pais" : "Noruega",
+		"sigla" : "NO"
+	},
+	{
+		"pais_en" : "Oman",
+		"pais" : "Oma",
+		"sigla" : "OM"
+	},
+	{
+		"pais_en" : "Pakistan",
+		"pais" : "Paquistão",
+		"sigla" : "PK"
+	},
+	{
+		"pais_en" : "Palau",
+		"pais" : "Palau",
+		"sigla" : "PW"
+	},
+	{
+		"pais_en" : "Panama",
+		"pais" : "Panamá",
+		"sigla" : "PA"
+	},
+	{
+		"pais_en" : "Papua New Guinea",
+		"pais" : "Papua Nova Guine",
+		"sigla" : "PG"
+	},
+	{
+		"pais_en" : "Paraguay",
+		"pais" : "Paraguai",
+		"sigla" : "PY"
+	},
+	{
+		"pais_en" : "Peru",
+		"pais" : "Peru",
+		"sigla" : "PE"
+	},
+	{
+		"pais_en" : "Philippines",
+		"pais" : "Filipinas",
+		"sigla" : "PH"
+	},
+	{
+		"pais_en" : "Pitcairn",
+		"pais" : "Pitcairn, Ilha",
+		"sigla" : "PN"
+	},
+	{
+		"pais_en" : "Poland",
+		"pais" : "Polônia, Republica da",
+		"sigla" : "PL"
+	},
+	{
+		"pais_en" : "Portugal",
+		"pais" : "Portugal",
+		"sigla" : "PT"
+	},
+	{
+		"pais_en" : "Puerto Rico",
+		"pais" : "Porto Rico",
+		"sigla" : "PR"
+	},
+	{
+		"pais_en" : "Qatar",
+		"pais" : "Catar",
+		"sigla" : "QA"
+	},
+	{
+		"pais_en" : "Reunion",
+		"pais" : "Reunião, Ilha",
+		"sigla" : "RE"
+	},
+	{
+		"pais_en" : "Romania",
+		"pais" : "Romênia",
+		"sigla" : "RO"
+	},
+	{
+		"pais_en" : "Russian Federation",
+		"pais" : "Rússia, Federação da",
+		"sigla" : "RU"
+	},
+	{
+		"pais_en" : "Rwanda",
+		"pais" : "Ruanda",
+		"sigla" : "RW"
+	},
+	{
+		"pais_en" : "Saint Kitts and Nevis",
+		"pais" : "São Cristovão e Neves, Ilhas",
+		"sigla" : "KN"
+	},
+	{
+		"pais_en" : "Saint LUCIA",
+		"pais" : "Santa Lucia",
+		"sigla" : "LC"
+	},
+	{
+		"pais_en" : "Saint Vincent and the Grenadines",
+		"pais" : "São Vicente e Granadinas",
+		"sigla" : "VC"
+	},
+	{
+		"pais_en" : "Samoa",
+		"pais" : "Samoa",
+		"sigla" : "WS"
+	},
+	{
+		"pais_en" : "San Marino",
+		"pais" : "San Marino",
+		"sigla" : "SM"
+	},
+	{
+		"pais_en" : "Sao Tome and Principe",
+		"pais" : "São Tome e Príncipe, Ilhas",
+		"sigla" : "ST"
+	},
+	{
+		"pais_en" : "Saudi Arabia",
+		"pais" : "Arábia Saudita",
+		"sigla" : "SA"
+	},
+	{
+		"pais_en" : "Senegal",
+		"pais" : "Senegal",
+		"sigla" : "SN"
+	},
+	{
+		"pais_en" : "Seychelles",
+		"pais" : "Seychelles",
+		"sigla" : "SC"
+	},
+	{
+		"pais_en" : "Sierra Leone",
+		"pais" : "Serra Leoa",
+		"sigla" : "SL"
+	},
+	{
+		"pais_en" : "Singapore",
+		"pais" : "Cingapura",
+		"sigla" : "SG"
+	},
+	{
+		"pais_en" : "Slovakia (Slovak Republic)",
+		"pais" : "Eslovaca, Republica",
+		"sigla" : "SK"
+	},
+	{
+		"pais_en" : "Slovenia",
+		"pais" : "Eslovênia, Republica da",
+		"sigla" : "SI"
+	},
+	{
+		"pais_en" : "Solomon Islands",
+		"pais" : "Salomão, Ilhas",
+		"sigla" : "SB"
+	},
+	{
+		"pais_en" : "Somalia",
+		"pais" : "Somalia",
+		"sigla" : "SO"
+	},
+	{
+		"pais_en" : "South Africa",
+		"pais" : "África do Sul",
+		"sigla" : "ZA"
+	},
+	{
+		"pais_en" : "South Georgia and the South Sandwich Islands",
+		"pais" : "Ilhas Geórgia do Sul e Sandwich do Sul",
+		"sigla" : "GS"
+	},
+	{
+		"pais_en" : "Spain",
+		"pais" : "Espanha",
+		"sigla" : "ES"
+	},
+	{
+		"pais_en" : "Sri Lanka",
+		"pais" : "Sri Lanka",
+		"sigla" : "LK"
+	},
+	{
+		"pais_en" : "St. Helena",
+		"pais" : "Santa Helena",
+		"sigla" : "SH"
+	},
+	{
+		"pais_en" : "St. Pierre and Miquelon",
+		"pais" : "São Pedro e Miquelon",
+		"sigla" : "PM"
+	},
+	{
+		"pais_en" : "Sudan",
+		"pais" : "Sudão",
+		"sigla" : "SD"
+	},
+	{
+		"pais_en" : "Suriname",
+		"pais" : "Suriname",
+		"sigla" : "SR"
+	},
+	{
+		"pais_en" : "Svalbard and Jan Mayen Islands",
+		"pais" : "Svalbard e Jan Mayen",
+		"sigla" : "SJ"
+	},
+	{
+		"pais_en" : "Swaziland",
+		"pais" : "Eswatini",
+		"sigla" : "SZ"
+	},
+	{
+		"pais_en" : "Sweden",
+		"pais" : "Suécia",
+		"sigla" : "SE"
+	},
+	{
+		"pais_en" : "Switzerland",
+		"pais" : "Suíça",
+		"sigla" : "CH"
+	},
+	{
+		"pais_en" : "Syrian Arab Republic",
+		"pais" : "Síria, Republica Árabe da",
+		"sigla" : "SY"
+	},
+	{
+		"pais_en" : "Taiwan, Province of China",
+		"pais" : "Formosa (Taiwan)",
+		"sigla" : "TW"
+	},
+	{
+		"pais_en" : "Tajikistan",
+		"pais" : "Tadjiquistao, Republica do",
+		"sigla" : "TJ"
+	},
+	{
+		"pais_en" : "Tanzania, United Republic of",
+		"pais" : "Tanzânia, Republica Unida da",
+		"sigla" : "TZ"
+	},
+	{
+		"pais_en" : "Thailand",
+		"pais" : "Tailândia",
+		"sigla" : "TH"
+	},
+	{
+		"pais_en" : "Togo",
+		"pais" : "Togo",
+		"sigla" : "TG"
+	},
+	{
+		"pais_en" : "Tokelau",
+		"pais" : "Toquelau, Ilhas",
+		"sigla" : "TK"
+	},
+	{
+		"pais_en" : "Tonga",
+		"pais" : "Tonga",
+		"sigla" : "TO"
+	},
+	{
+		"pais_en" : "Trinidad and Tobago",
+		"pais" : "Trinidad e Tobago",
+		"sigla" : "TT"
+	},
+	{
+		"pais_en" : "Tunisia",
+		"pais" : "Tunísia",
+		"sigla" : "TN"
+	},
+	{
+		"pais_en" : "Turkey",
+		"pais" : "Turquia",
+		"sigla" : "TR"
+	},
+	{
+		"pais_en" : "Turkmenistan",
+		"pais" : "Turcomenistão, Republica do",
+		"sigla" : "TM"
+	},
+	{
+		"pais_en" : "Turks and Caicos Islands",
+		"pais" : "Turcas e Caicos, Ilhas",
+		"sigla" : "TC"
+	},
+	{
+		"pais_en" : "Tuvalu",
+		"pais" : "Tuvalu",
+		"sigla" : "TV"
+	},
+	{
+		"pais_en" : "Uganda",
+		"pais" : "Uganda",
+		"sigla" : "UG"
+	},
+	{
+		"pais_en" : "Ukraine",
+		"pais" : "Ucrânia",
+		"sigla" : "UA"
+	},
+	{
+		"pais_en" : "United Arab Emirates",
+		"pais" : "Emirados Árabes Unidos",
+		"sigla" : "AE"
+	},
+	{
+		"pais_en" : "United Kingdom",
+		"pais" : "Reino Unido",
+		"sigla" : "GB"
+	},
+	{
+		"pais_en" : "United States",
+		"pais" : "Estados Unidos",
+		"sigla" : "US"
+	},
+	{
+		"pais_en" : "United States Minor Outlying Islands",
+		"pais" : "Ilhas Menores Distantes dos Estados Unidos",
+		"sigla" : "UM"
+	},
+	{
+		"pais_en" : "Uruguay",
+		"pais" : "Uruguai",
+		"sigla" : "UY"
+	},
+	{
+		"pais_en" : "Uzbekistan",
+		"pais" : "Uzbequistão, Republica do",
+		"sigla" : "UZ"
+	},
+	{
+		"pais_en" : "Vanuatu",
+		"pais" : "Vanuatu",
+		"sigla" : "VU"
+	},
+	{
+		"pais_en" : "Venezuela",
+		"pais" : "Venezuela",
+		"sigla" : "VE"
+	},
+	{
+		"pais_en" : "Viet Nam",
+		"pais" : "Vietnã",
+		"sigla" : "VN"
+	},
+	{
+		"pais_en" : "Virgin Islands (British)",
+		"pais" : "Virgens, Ilhas (Britânicas)",
+		"sigla" : "VG"
+	},
+	{
+		"pais_en" : "Virgin Islands (U.S.)",
+		"pais" : "Virgens, Ilhas (E.U.A.)",
+		"sigla" : "VI"
+	},
+	{
+		"pais_en" : "Wallis and Futuna Islands",
+		"pais" : "Wallis e Futuna, Ilhas",
+		"sigla" : "WF"
+	},
+	{
+		"pais_en" : "Western Sahara",
+		"pais" : "Saara Ocidental",
+		"sigla" : "EH"
+	},
+	{
+		"pais_en" : "Yemen",
+		"pais" : "Iémen",
+		"sigla" : "YE"
+	},
+	{
+		"pais_en" : "Yugoslavia",
+		"pais" : "Iugoslávia, República Fed. da",
+		"sigla" : "YU"
+	},
+	{
+		"pais_en" : "Zambia",
+		"pais" : "Zâmbia",
+		"sigla" : "ZM"
+	},
+	{
+		"pais_en" : "Zimbabwe",
+		"pais" : "Zimbabue",
+		"sigla" : "ZW"
+	},
+	{
+		"pais_en" : "Bailiwick of Guernsey",
+		"pais" : "Guernsey, Ilha do Canal (Inclui Alderney e Sark)",
+		"sigla" : "GG"
+	},
+	{
+		"pais_en" : "Bailiwick of Jersey",
+		"pais" : "Jersey, Ilha do Canal",
+		"sigla" : "JE"
+	},
+	{
+		"pais_en" : "Isle of Man",
+		"pais" : "Man, Ilha de",
+		"sigla" : "IM"
+	},
+	{
+		"pais_en" : "Crna Gora (Montenegro)",
+		"pais" : "Montenegro",
+		"sigla" : "ME"
+	},
+	{
+		"pais_en" : "SÉRVIA",
+		"pais" : "Republika Srbija",
+		"sigla" : "RS"
+	},
+	{
+		"pais_en" : "Republic of South Sudan",
+		"pais" : "Sudao do Sul",
+		"sigla" : "SS"
+	},
+	{
+		"pais_en" : "Dawlat Filasṭīn",
+		"pais" : "Palestina",
+		"sigla" : "PS"
+	},
+	{
+		"pais_en" : "Åland Islands",
+		"pais" : "Aland, Ilhas",
+		"sigla" : "AX"
+	},
+	{
+		"pais_en" : "Curaçao",
+		"pais" : "Curaçao",
+		"sigla" : "CW"
+	},
+	{
+		"pais_en" : "Saint Martin",
+		"pais" : "São Martinho, Ilha de (Parte Holandesa)",
+		"sigla" : "SM"
+	},
+	{
+		"pais_en" : "Bonaire",
+		"pais" : "Bonaire",
+		"sigla" : "AN"
+	},
+	{
+		"pais_en" : "Antartica",
+		"pais" : "Antartica",
+		"sigla" : "AQ"
+	},
+	{
+		"pais_en" : "Heard Island and McDonald Islands",
+		"pais" : "Ilha Herad e Ilhas Macdonald",
+		"sigla" : "AU"
+	},
+	{
+		"pais_en" : "Saint-Barthélemy",
+		"pais" : "São Bartolomeu",
+		"sigla" : "FR"
+	},
+	{
+		"pais_en" : "Saint Martin",
+		"pais" : "São Martinho, Ilha de (Parte Francesa)",
+		"sigla" : "SM"
+	},
+	{
+		"pais_en" : "Terres Australes et Antarctiques Françaises",
+		"pais" : "Terras Austrais e Antárcticas Francesas",
+		"sigla" : "TF"
+	}
+]

@@ -1,0 +1,110 @@
+[
+    {
+      "UF":"AC",
+      "NOME":"Acre"
+    },
+    {
+      "UF":"AL",
+      "NOME":"Alagoas"
+    },
+    {
+      "UF":"AP",
+      "NOME":"Amapá"
+    },
+    {
+      "UF":"AM",
+      "NOME":"Amazonas"
+    },
+    {
+      "UF":"BA",
+      "NOME":"Bahia"
+    },
+    {
+      "UF":"CE",
+      "NOME":"Ceará"
+    },
+    {
+      "UF":"DF",
+      "NOME":"Distrito Federal"
+    },
+    {
+      "UF":"ES",
+      "NOME":"Espírito Santo"
+    },
+    {
+      "UF":"GO",
+      "NOME":"Goiás"
+    },
+    {
+      "UF":"MA",
+      "NOME":"Maranhão"
+    },
+    {
+      "UF":"MT",
+      "NOME":"Mato Grosso"
+    },
+    {
+      "UF":"MS",
+      "NOME":"Mato Grosso do Sul"
+    },
+    {
+      "UF":"MG",
+      "NOME":"Minas Gerais"
+    },
+    {
+      "UF":"PA",
+      "NOME":"Pará"
+    },
+    {
+      "UF":"PB",
+      "NOME":"Paraíba"
+    },
+    {
+      "UF":"PR",
+      "NOME":"Paraná"
+    },
+    {
+      "UF":"PE",
+      "NOME":"Pernambuco"
+    },
+    {
+      "UF":"PI",
+      "NOME":"Piauí"
+    },
+    {
+      "UF":"RJ",
+      "NOME":"Rio de Janeiro"
+    },
+    {
+      "UF":"RN",
+      "NOME":"Rio Grande do Norte"
+    },
+    {
+      "UF":"RS",
+      "NOME":"Rio Grande do Sul"
+    },
+    {
+      "UF":"RO",
+      "NOME":"Rondônia"
+    },
+    {
+      "UF":"RR",
+      "NOME":"Roraima"
+    },
+    {
+      "UF":"SC",
+      "NOME":"Santa Catarina"
+    },
+    {
+      "UF":"SP",
+      "NOME":"São Paulo"
+    },
+    {
+      "UF":"SE",
+      "NOME":"Sergipe"
+    },
+    {
+      "UF":"TO",
+      "NOME":"Tocantins"
+    }
+]
